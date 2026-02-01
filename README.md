@@ -1,3 +1,7 @@
+projek latihan ini menggunakan react
+
+
+
 
 # React + Vite
 
